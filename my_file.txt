@@ -1,0 +1,7 @@
+Line 1: It is sunny today.
+Line 2: 12345
+Line 3: Kenya is a beautiful country.
+
+Line 4: Appended line 1.
+Line 5: 67890
+Line 6: Life in kenya is beautiful.
